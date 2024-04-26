@@ -5,4 +5,4 @@
   <body>
     <h1>Meie Azure projekti pealeht</h1>
   </body> 
-<\html>
+</html>
