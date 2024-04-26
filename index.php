@@ -7,5 +7,6 @@
     <h2>Deployment Center</h2>
     <p>Kui ressurss on loodud, siis võtame vasakult menüüst Deployment Center. 
 Continues eelis on, et kui commit on tehtud, siis Azure automaatselt uuendab ka Azure’s ka koodi.</p>
+    <img src="Mortalis_avapilt_promo1.png" alt="Mortalis Logo image" />
   </body> 
 </html>
